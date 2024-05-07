@@ -1,6 +1,8 @@
 # Sveltekit & Supabase starter project
 
 - Sveltekit
+- Tailwind 
+- Daisy UI
 - Supabase connected / access to supabase via locals
 - Auth implemented via supabase (/auth route)
 
